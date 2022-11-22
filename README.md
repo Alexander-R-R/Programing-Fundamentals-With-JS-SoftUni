@@ -1,2 +1,2 @@
-# SoftUniTasks
+# SoftUni Tasks
 SoftUni Lab + Exercise
